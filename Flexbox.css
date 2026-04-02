@@ -1,0 +1,11 @@
+/* Flexbox */
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item {
+    background-color: skyblue;
+    padding: 20px;
+}
