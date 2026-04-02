@@ -1,0 +1,13 @@
+/* Colors */
+
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: #ff5733;
+}
+
+.box {
+    background-color: rgb(100, 200, 150);
+}
